@@ -1,1 +1,1 @@
-openresty/tengine
+openresty/openresty:latest
