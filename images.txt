@@ -1,1 +1,2 @@
---platform=linux/arm64 openjdk:11
+nginxinc/nginx-unprivileged:1.21.0
+tengine
