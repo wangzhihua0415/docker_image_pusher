@@ -1,1 +1,1 @@
-nginx:latest
+zlmediakit/zlmediakit:master
