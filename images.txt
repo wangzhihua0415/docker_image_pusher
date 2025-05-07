@@ -1,1 +1,2 @@
-2ndquadrant/barman
+barman
+barman/barman-cloud:latest
