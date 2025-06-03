@@ -1,1 +1,1 @@
-dolphyvn/vsftpdv5.6
+centos:8
