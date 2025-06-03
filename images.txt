@@ -1,1 +1,1 @@
-vsftpd-alpine:3.20.2
+globalsoftimages/vsftpd-alpine
