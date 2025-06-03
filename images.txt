@@ -1,1 +1,1 @@
-globalsoftimages/vsftpd-alpine
+rocdk890/vsftpd-alpine3.4
