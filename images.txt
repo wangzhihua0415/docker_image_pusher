@@ -1,3 +1,1 @@
-prom/prometheus
-grafana/grafana
-prom/node-exporter
+wrouesnel/postgres_exporter
