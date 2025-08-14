@@ -1,1 +1,1 @@
-wrouesnel/postgres_exporter
+registry
