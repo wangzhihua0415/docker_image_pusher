@@ -1,1 +1,1 @@
-registry
+eipwork/kuboard:latest
