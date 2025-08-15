@@ -1,1 +1,1 @@
-eipwork/kuboard:latest
+eipwork/etcd-host
