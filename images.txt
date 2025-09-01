@@ -1,1 +1,2 @@
-arm64v8/python:3.9
+python:3.11-bullseye-arm64
+python:3.11-slim-bullseye-arm64
