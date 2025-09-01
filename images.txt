@@ -1,1 +1,1 @@
-python:3.11-slim
+arm64v8/python
