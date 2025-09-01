@@ -1,2 +1,2 @@
-node:20-alpine
-node:20
+arm64v8/python:3.9
+python:3.9-arm64v8
