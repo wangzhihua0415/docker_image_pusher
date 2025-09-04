@@ -1,1 +1,1 @@
-ubuntu:21.10@sha256:af787f9bfcb52606fbfc5247f9f45dc20f9635762ff7c84839aa75c098c2cc9f
+arm64v8/ubuntu:22.04
