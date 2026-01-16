@@ -1,1 +1,1 @@
-clamav/clamav
+trafex/php-nginx:7.4
