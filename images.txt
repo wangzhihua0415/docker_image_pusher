@@ -1,1 +1,1 @@
-trafex/php-nginx:7.4
+trafex/php-nginx:3.10.0
