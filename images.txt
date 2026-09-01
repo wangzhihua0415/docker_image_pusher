@@ -1,1 +1,1 @@
-postgis/postgis:17-master
+kartoza/postgis:18-3.6--v2025.11.16
