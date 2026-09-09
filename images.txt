@@ -1,1 +1,1 @@
-kartoza/postgis:17-3.5
+metersphere/metersphere-ce-allinone
