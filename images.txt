@@ -1,4 +1,1 @@
-# metersphere/metersphere-ce-allinone
-
-# 多架构
 nginx:latest
