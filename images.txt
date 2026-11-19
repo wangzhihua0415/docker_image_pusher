@@ -1,1 +1,4 @@
-metersphere/metersphere-ce-allinone
+# metersphere/metersphere-ce-allinone
+
+# 多架构
+--platform=linux/arm64 nginx:latest
