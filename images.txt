@@ -1,4 +1,4 @@
 # 多架构
-#--platform=linux/arm64 nginx:latest
+--platform=linux/arm64 nginx:latest
 
---platform=linux/arm64 eclipse-temurin:17-jdk
+#--platform=linux/arm64 eclipse-temurin:17-jdk
